@@ -1,3 +1,3 @@
 # lijieamd.github.io
 
-[Main](../ipypage/Index.ipynb)
+[Main](https://github.com/lijieamd/ipypage/blob/master/Index.ipynb)
