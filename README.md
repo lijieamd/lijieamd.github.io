@@ -1,2 +1,3 @@
 # lijieamd.github.io
-JAY杂货铺
+
+[Main](../ipypage/Index.ipynb)
