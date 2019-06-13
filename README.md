@@ -4,7 +4,7 @@
 
 
 <center>
-  <a href="www.beian.miit.gov.cn">
+  <a rel="external" href="www.beian.miit.gov.cn">
     粤ICP备16002411号
   </a>
 </center>
